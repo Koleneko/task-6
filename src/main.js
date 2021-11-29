@@ -15,7 +15,7 @@ import VueVirtualScroller from 'vue-virtual-scroller'
 
 import 'v-tooltip/dist/v-tooltip.css'
 import 'vue-virtual-scroller/dist/vue-virtual-scroller.css'
-import router from 'vue-router'
+import router from './router'
 
 
 library.add(faSortAmountUp, faSortAmountDown, faSort, faFilter, faTimes);
